@@ -37,6 +37,7 @@ This video throws light on how to set up your Sensything device. Get set Go!
 
 They can be listed as follows:
 
+
 |Sensything pin label| Analog Channel   |
 |----------------- |:--------------------:|
 | A1             | Channel 1                  |            
@@ -45,6 +46,7 @@ They can be listed as follows:
 | A4             | Channel 4                  |  
 | 3V3              | Supply - Board which supports 3.3V   |
 | GND                             | Gnd |
+
 
 A short video suggests how to connect a basic analog sensor like the Piezo vibration sensor to Sensything.
 
